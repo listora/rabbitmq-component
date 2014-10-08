@@ -13,7 +13,7 @@ stopping the component will close it.
 Add the following dependency to your project.clj file:
 
 ```clojure
-[listora/rabbitmq-component "0.1.0-SNAPSHOT"]
+[listora/rabbitmq-component "0.1.0"]
 ```
 
 ## Usage

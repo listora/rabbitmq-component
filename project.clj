@@ -1,4 +1,4 @@
-(defproject listora/rabbitmq-component "0.1.0-SNAPSHOT"
+(defproject listora/rabbitmq-component "0.1.0"
   :description "A component for managing a connection to RabbitMQ"
   :url "https://github.com/listora/rabbitmq-component"
   :license {:name "Eclipse Public License"
